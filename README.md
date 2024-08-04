@@ -15,8 +15,8 @@
         <div class="code-block">
             <pre><code>sudo apt update -y && sudo apt upgrade -y
 sudo apt install python3
-git clone https://github.com/dabergery/UPnP-Attack.git
-cd UPnP-Attack
+git clone https://github.com/dabergery/UpnPie.git
+cd UpnPie
 sudo chmod 777 *
 bash 01_curl_router.sh
             </code></pre>
