@@ -6,7 +6,7 @@
             <a href="https://github.com/dabergery/dabergery/blob/main/images/image.png" alt="UPnP Image schema">
                 <img src="https://github.com/dabergery/dabergery/blob/main/images/image.png">
             </a>
-            <a href="https://www.shodan.io/static/img/logo-6abcc86b.png" alt="UPnP Image schema">
+            <a href="https://www.shodan.io/search?query=ssdp" alt="UPnP Image schema" height="200px">
                 <img src="https://www.shodan.io/static/img/logo-6abcc86b.png">
             </a>            
             <li><a href="https://www.shodan.io/search?query=ssdp" target="_blank">UPNP Router on Shodan.io</a></li>
