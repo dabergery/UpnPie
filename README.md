@@ -6,6 +6,9 @@
             <a href="https://github.com/dabergery/dabergery/blob/main/images/image.png" alt="UPnP Image schema">
                 <img src="https://github.com/dabergery/dabergery/blob/main/images/image.png">
             </a>
+            <a href="https://www.shodan.io/static/img/logo-6abcc86b.png" alt="UPnP Image schema">
+                <img src="https://www.shodan.io/static/img/logo-6abcc86b.png">
+            </a>            
             <li><a href="https://www.shodan.io/search?query=ssdp" target="_blank">UPNP Router on Shodan.io</a></li>
             <li><a href="https://dnschecker.org/port-scanner.php" target="_blank">Custom Port scanner</a></li>
             <li>Port by Default of UPnP 1900</li>
