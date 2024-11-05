@@ -1,0 +1,13 @@
+Here is what the script should looks like.
+
+have fun to test this UPNP bash Tool.
+
+command: ./00_scan_ip.sh  192.168.0.0/24                                                      
+result: [ONLINE SERVERS]                                                                                            
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-11-05 23:17 CET Nmap scan report for _gateway (192.168.0.
+1) Nmap scan report for XXXDEVICE (192.168.0.10) Nmap done: 256 IP addresses (256 hosts up) scanned in 0.51 sec
+onds
+
+command: ./01_scan_port.sh 192.168.0.1                                                        
+result: [PORTS SCAN]
+Connection to 192.168.0.1 1900 port [tcp/*] succeeded!            
